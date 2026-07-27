@@ -251,8 +251,7 @@ This project is licensed under the **MIT License**.
 
 📧 your.email@example.com
 
-🔗 GitHub: https://github.com/yourusername
-
+🔗 GitHub: https://github.com/sakshichakave29-dev
 🔗 LinkedIn: https://linkedin.com/in/yourprofile
 
 ---
