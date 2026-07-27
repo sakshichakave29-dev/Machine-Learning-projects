@@ -156,6 +156,35 @@ Customer-Churn-Prediction
 ```
 
 ---
+
+# 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/sakshichakave29-dev/Customer-Churn-Prediction.git
+```
+
+### Navigate to Project
+
+```bash
+cd Customer-Churn-Prediction
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+---
+
 # 📉 Exploratory Data Analysis
 
 The project includes several visualizations:
@@ -215,3 +244,23 @@ Contributions are welcome!
 This project is licensed under the **MIT License**.
 
 ---
+
+# 👨‍💻 Author
+
+**Your Name**
+
+📧 your.email@example.com
+
+🔗 GitHub: https://github.com/yourusername
+
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project helpful, please give it a Star!
+
+**Happy Coding! 🚀**
+
+</div>
