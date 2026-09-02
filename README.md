@@ -247,12 +247,12 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Your Name**
+**sakshi chakave**
 
 📧 your.email@example.com
 
 🔗 GitHub: https://github.com/sakshichakave29-dev
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn: https://linkedin.com/in/sakshichakave
 
 ---
 
