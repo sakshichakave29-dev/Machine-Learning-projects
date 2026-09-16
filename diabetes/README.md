@@ -115,7 +115,7 @@ pip install streamlit pandas numpy scikit-learn plotly
 Because the application file is named `app(5).py`, run:
 
 ```bash
-streamlit run "app(5).py"
+streamlit run "app.py"
 ```
 
 The Streamlit application will open in your browser.
@@ -200,9 +200,9 @@ This can be used to review the machine-learning/data-analysis workflow associate
 
 ## 👨‍💻 Author
 
-**Your Name**
+SAKSHI CHAKAVE
 
-GitHub: `https://github.com/YOUR_USERNAME`
+GitHub:https://github.com/sakshichakave29-dev/Machine-Learning-projects/edit/main/diabetes/README.md
 
 ## ⭐ Future Improvements
 
