@@ -274,10 +274,10 @@ Possible improvements include:
 
 ## 👨‍💻 Author
 
-**Your Name**
+sakshi chakave
 
-- GitHub: <https://github.com/sakshichakave29-dev/Machine-Learning-projects>
-linkdin:<>
+- GitHub: <https://github.com/sakshichakave29-dev/Machine-Learning-projects/tree/main/iris>
+linkdin:<https://lnkd.in/p/gF4TXye4>
 
 ## ⭐ Support
 
